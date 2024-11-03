@@ -10,7 +10,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Destaanugra1&icon=0&color=13)](https://visitcount.itsvg.in)
-[![ig](https://visitcount.itsvg.in/api?id=destaanugrahpr&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=destaanugrahpr&label=cek%20profil%20Instagram%20&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
